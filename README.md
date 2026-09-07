@@ -34,7 +34,7 @@ A lightweight repository manager and proxy for composer.
 A dockerfile was provided. If you need to install additional libraries like aws/aws-sdk-php or resend/resend-php for send e-mails. You need to install the dependencies and run:
 
 ```sh
-docker build .
+docker build -t repho:latest .
 ```
 
 then run the container:
@@ -45,7 +45,7 @@ docker run -p 4431:443 \
   -e INIT_DEFAULT_EMAIL=admin@example.com \
   -e INIT_DEFAULT_NAME=admin \
   -e INIT_DEFAULT_PASSWORD=secretpass123 \
-  [image_id]
+  repho:latest
 ```
 
 ## Notes
