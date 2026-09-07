@@ -2,7 +2,7 @@
 
 A lightweight repository manager and proxy for composer.
 
-![Screenshot](resources/img/screenshot.jpg)
+![Screenshot](resources/img/screenshot.png)
 
 
 > [!NOTE]
