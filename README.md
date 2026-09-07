@@ -2,6 +2,9 @@
 
 A lightweight repository manager and proxy for composer.
 
+![Screenshot](resources/img/screenshot.jpg)
+
+
 > [!NOTE]
 > For enterprise and medium/large projects, I recommend using [Private Packagist](https://packagist.com/).
 
