@@ -1,6 +1,6 @@
 # Rephó
 
-A lightweight repository manager and proxy for composer.
+A lightweight repository manager and proxy for [Composer](https://getcomposer.org/).
 
 ![Screenshot](resources/img/screenshot.png)
 
